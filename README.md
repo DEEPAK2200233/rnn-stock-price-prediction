@@ -87,7 +87,7 @@ plt.show()
 
 ### Mean Square Error
 
-![image](https://github.com/Sriram8452/rnn-stock-price-prediction/assets/118708032/6305b8ca-3c3b-44c2-ab25-df82649e4a03)
+![image](https://github.com/DEEPAK2200233/rnn-stock-price-prediction/assets/118707676/7e6e71ad-9dc1-41aa-9c9d-e8014e64b12e)
 
 
 ## RESULT
