@@ -82,12 +82,10 @@ plt.show()
 
 ### True Stock Price, Predicted Stock Price vs time
 
-![image](https://github.com/Sriram8452/rnn-stock-price-prediction/assets/118708032/264d6a7a-2f69-49e2-a902-e7d244465b8d)
+![image](https://github.com/DEEPAK2200233/rnn-stock-price-prediction/assets/118707676/4e046fb8-45ce-49df-a1da-d1a3e88c001a)
 
 
 ### Mean Square Error
-
-![image](https://github.com/DEEPAK2200233/rnn-stock-price-prediction/assets/118707676/7e6e71ad-9dc1-41aa-9c9d-e8014e64b12e)
 
 
 ## RESULT
