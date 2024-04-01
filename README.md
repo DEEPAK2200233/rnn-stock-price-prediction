@@ -82,11 +82,11 @@ plt.show()
 
 ### True Stock Price, Predicted Stock Price vs time
 
-![image](https://github.com/DEEPAK2200233/rnn-stock-price-prediction/assets/118707676/4e046fb8-45ce-49df-a1da-d1a3e88c001a)
-
+![image](https://github.com/DEEPAK2200233/rnn-stock-price-prediction/assets/118707676/3268e212-3c8b-49fd-8200-dc183d03ccbb)
 
 ### Mean Square Error
 
+![image](https://github.com/DEEPAK2200233/rnn-stock-price-prediction/assets/118707676/fbc926f7-1394-473d-82f3-cf38510544fa)
 
 ## RESULT
 Thus a Recurrent Neural Network model for stock price prediction is developed and implemented successfully.
